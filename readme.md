@@ -14,7 +14,7 @@ Este é o backend da aplicação <b>Hamburgueria Kenzie V2</b> -  O objetivo des
 
 A API tem um total de 3 endpoints,  podendo cadastrar seu usuario, realizar login e busca de produtos. <br/>
 
-<a style="display:flex; justify-content:center" href="https://github.com/Kenzie-Academy-Brasil-Developers/hamburgueria-kenzie-version-2/blob/main/insomnia_hamburgueria.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Baixar Json Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=Hamburgueria%20Kenzie%20V2&uri=https%3A%2F%2Fgithub.com%2FKenzie-Academy-Brasil-Developers%2Fhamburgueria-kenzie-version-2%2Fblob%2Fmain%2Finsomnia_hamburgueria.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 <blockquote> Para importar o JSON no Insomnia é só clicar no botão "Run in Insomnia". Depois é só seguir os passos que ele irá importar todos os endpoints em seu insomnia.
 </blockquote>
