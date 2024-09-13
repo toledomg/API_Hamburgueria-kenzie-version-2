@@ -1,1 +1,55 @@
-node_modules
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/dist
+/node_modules
+
+seed.ts
+
+Login Page
+# src/pages/login/index.tsx
+
+# Backups
+
+api copy 2.tsx
+api copy.tsx
+
+.psd*
+.lock
+.env
+roles.guard copy.ts
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+src/pages/sales-list/bkp/index copy.tsx
+public/images/pages/profile-banner.psd
+public/images/avatars/logo-frutale.png
